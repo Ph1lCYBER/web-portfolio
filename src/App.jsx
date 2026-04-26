@@ -34,7 +34,7 @@ function App() {
       setStatus({ 
         show: true, 
         type: 'danger', 
-        msg: 'Error: Could not connect to the server. Make sure XAMPP is running.' 
+        msg: 'Error: Haan ko py inupdate PHPmaler DRE!' 
       });
     }
   };
