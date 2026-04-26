@@ -34,7 +34,7 @@ function App() {
       setStatus({ 
         show: true, 
         type: 'danger', 
-        msg: 'Error: Haan ko py inupdate PHPmaler DRE!' 
+        msg: 'Error: Haan ko py inupdate PHPmaler DRE!git add .' 
       });
     }
   };
