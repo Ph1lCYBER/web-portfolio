@@ -34,7 +34,7 @@ function App() {
       setStatus({ 
         show: true, 
         type: 'danger', 
-        msg: 'Error: Haan ko py inupdate PHPmaler DRE!git add .' 
+        msg: 'Error: Haan ko py inupdate PHPmailer DRE!git add .' 
       });
     }
   };
@@ -74,7 +74,7 @@ function App() {
             
             {/* Left Column: Text */}
             <Col lg={7} className="text-left hero-text-area">
-              <h1 className="display-4 fw-bold">Hello, my name is <br /> <span>PHILIP MICO</span></h1>
+              <h1 className="display-4 fw-bold">Hello, my name is <br /> <span>HILIP MICO</span></h1>
               <p className="lead" style={{color: '#a0a0a0'}}>I am a Technical Support Specialist & Web Developer.</p>
               <Button variant="primary" size="lg" className="mt-3" href="#contact">Hire Me</Button>
             </Col>
