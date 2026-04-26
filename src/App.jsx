@@ -27,7 +27,7 @@ function App() {
       setStatus({ 
         show: true, 
         type: 'success', 
-        msg: 'Thank you! Your message has been sent successfully.' 
+        msg: 'Quality Dre!.....' 
       });
       setFormData({ name: '', email: '', message: '' }); // Clear form on success
     } catch (error) {
